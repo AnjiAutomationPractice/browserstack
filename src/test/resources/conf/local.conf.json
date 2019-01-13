@@ -1,0 +1,16 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "anjimasarapu1",
+  "key": "CiUDqxcqxi15sx9pTRvM",
+
+  "capabilities": {
+    "build": "junit-browserstack",
+    "name": "local_test",
+    "browserstack.debug": true,
+    "browserstack.local": true
+  },
+
+  "environments": [{
+    "browser": "chrome"
+  }]
+}
